@@ -86,7 +86,7 @@ install_apk_demo() {
     current_dir=$(pwd)
     
     # Define the paths to the APK files
-    apk1="${current_dir}/applications/CoCoBox_official.apk"
+    apk1="${current_dir}/applications/subway.apk"
     apk2="${current_dir}/applications/subway-surfers-3-29-1.apk"
 
     # Check if the APK files exist and install them
